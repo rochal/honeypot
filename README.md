@@ -61,7 +61,7 @@ create: function(req, res) {
 Kudos
 ----
 
-Based this sweet PHP gist https://gist.github.com/smithweb/7773373.
+Based on this sweet PHP gist https://gist.github.com/smithweb/7773373.
 
 
 License
