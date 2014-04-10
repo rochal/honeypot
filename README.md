@@ -27,7 +27,7 @@ pot.query('127.0.0.1', function(err, response){
     } else {
         console.log("Oh no, it's a spammer mate! Kil it with fire!");
         console.log(response.getFormattedResponse());
-        // Suspiious, Comment Spammer
+        // Suspicious, Comment Spammer
         // Threat Rating: 58 / 255
         // Recency: 1 / 255
     }
